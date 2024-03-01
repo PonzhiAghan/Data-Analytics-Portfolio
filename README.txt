@@ -1,33 +1,41 @@
-Hyperspace by HTML5 UP
-html5up.net | @ajlkn
-Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+Data Analysis Portfolio
+Introduction
 
+Welcome to my data analysis portfolio! This repository showcases a collection of projects where I've applied my skills in data analysis, visualization, and machine learning to extract insights and drive informed decision-making.
+Projects
 
-So I've had the wireframe for this particular design kicking around for some time, but with all
-the other interesting (and in some cases, semi-secret) projects I've been working on it took me
-a little while to get to actually designing and coding it. Fortunately, things have eased up
-enough for me to finaly get around to it, so I'm happy to introduce Hyperspace: a fun, blocky,
-one-page design with a lot of color, a bit of animation, and an additional "generic" page template
-(because hey, even one-page sites usually need an interior page or two). Hope you dig it :)
+    Project 1: Brief description of the project, including the problem statement, methodologies used, and key findings.
+    Project 2: Brief description of the project, including the problem statement, methodologies used, and key findings.
+    Project 3: Brief description of the project, including the problem statement, methodologies used, and key findings.
+    (Add more projects as needed)
 
-Demo images* courtesy of Unsplash, a radtastic collection of CC0 (public domain) images
-you can use for pretty much whatever.
+Each project folder contains:
 
-(* = not included)
+    Jupyter Notebook or Python scripts: Code used for data analysis, visualization, and modeling.
+    Data folder: Raw and processed datasets used in the project.
+    README.md: Detailed explanation of the project, including background, methodologies, and insights.
 
-AJ
-aj@lkn.io | @ajlkn
+Technologies Used
 
+    Python: Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, Beautiful Soup, Selenium.
+    SQL: Querying databases, data manipulation.
+    Excel: Data manipulation, formula-based analysis, dashboard creation.
+    Tableau: Interactive visualizations, dashboard creation.
+    PowerBI: Data visualization, interactive dashboards, insightful reports.
 
-Credits:
+Getting Started
 
-	Demo Images:
-		Unsplash (unsplash.com)
+To explore the projects in this repository, follow these steps:
 
-	Icons:
-		Font Awesome (fontawesome.io)
+    Clone the repository to your local machine.
+    Navigate to the project folder you're interested in.
+    Review the README.md file for detailed information about the project.
+    Explore the Jupyter Notebook or Python scripts to see the code and analysis.
+    Run the code locally to reproduce the results or make modifications as needed.
 
-	Other:
-		jQuery (jquery.com)
-		Scrollex (github.com/ajlkn/jquery.scrollex)
-		Responsive Tools (github.com/ajlkn/responsive-tools)
+Contact
+
+Feel free to reach out to me if you have any questions, feedback, or collaboration opportunities. You can connect with me via:
+
+    Email: igwaky@gmail.com
+    LinkedIn: https://www.linkedin.com/in/nanyak-famwang/
