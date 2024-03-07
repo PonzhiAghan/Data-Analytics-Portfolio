@@ -23,9 +23,6 @@ Welcome to my data analysis portfolio! This repository showcases a collection of
 
 The SQL Murder Mystery project involved using SQL queries to solve a fictional murder case that took place in SQL city. By analyzing a database containing evidence, witness testimonies, and suspect information, I formulated queries to uncover clues, identify suspects, and ultimately determine the perpetrator of the crime. Through deductive reasoning and careful analysis of the data, I successfully solved the mystery and identified the culprit behind the murder.
 
-### Project 4: Brief description of the project, including the problem statement, methodologies used, and key findings.
-
-### Project 5: Brief description of the project, including the problem statement, methodologies used, and key findings.
 
 Each project folder contains:
 
