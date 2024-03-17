@@ -2,7 +2,7 @@
 
 ## Introduction
 
-Welcome to my data analysis portfolio! This repository showcases a collection of projects where I've applied my skills in data analysis, visualization, and machine learning to extract insights and drive informed decision-making.
+Welcome to my data analysis portfolio! This repository showcases a collection of projects where I've applied my skills in data analysis, and visualization, to extract insights and drive informed decision-making.
 
 ## Projects
 
