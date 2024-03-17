@@ -12,7 +12,7 @@ Welcome to my data analysis portfolio! This repository showcases a collection of
 - Completed cleaning and analyzing of the dataset to uncover the performance of the loan.
 - Visualized the dataset to uncover the trends of delinquencies.
 
-### Project 2: The SQL Murder Mystery Project
+### Project 2: [The SQL Murder Mystery Project](https://github.com/PonzhiAghan/SQL-Project/tree/main)
 
 - The SQL Murder Mystery project involved using SQL queries to solve a fictional murder case that took place in SQL city. 
 - By analyzing the database containing evidence, witness testimonies, and suspect information, queries were formulated to uncover clues, identify suspects, and ultimately determine the perpetrator of the crime.
