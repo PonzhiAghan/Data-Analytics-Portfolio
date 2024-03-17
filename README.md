@@ -14,7 +14,9 @@ Welcome to my data analysis portfolio! This repository showcases a collection of
 
 ### Project 2: The SQL Murder Mystery Project
 
-The SQL Murder Mystery project involved using SQL queries to solve a fictional murder case that took place in SQL city. By analyzing a database containing evidence, witness testimonies, and suspect information, I formulated queries to uncover clues, identify suspects, and ultimately determine the perpetrator of the crime. Through deductive reasoning and careful analysis of the data, I successfully solved the mystery and identified the culprit behind the murder.
+The SQL Murder Mystery project involved using SQL queries to solve a fictional murder case that took place in SQL city. 
+- By analyzing a database containing evidence, witness testimonies, and suspect information, queriex were formulated to uncover clues, identify suspects, and ultimately determine the perpetrator of the crime.
+- Through deductive reasoning and careful analysis of the data, the mystery was solved and the culprit behind the murder identified.
 
 ### Project 3: Accenture North America Data Analytics and Visualization Job Simulation on Forage - February 2024
 
