@@ -7,7 +7,7 @@ Welcome to my data analysis portfolio! This repository showcases a collection of
 
 ## Projects
 
-### Project 1: An Exploration of Loan Performance in the Prosper Dataset
+### Project 1: [An Exploration of Loan Performance in the Prosper Dataset](https://github.com/PonzhiAghan/Data_analytics_with_python/blob/ec2cbbcb41ae7f5112dd3fead6cc3c488563e1c3/Python_Project_Notebook.ipynb)
 
 - Completed cleaning and analyzing of the dataset to uncover the performance of the loan.
 - Visualized the dataset to uncover the trends of delinquencies.
