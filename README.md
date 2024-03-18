@@ -36,6 +36,7 @@ Each project folder contains:
 
 - Jupyter Notebook or Python scripts: Code used for data analysis, visualization, and modeling.
 - Data folder: Raw and processed datasets used in the project.
+- Folder containing the PowerBI and Excel files from the job simulation
 - README.md: Detailed explanation of the project, including background, methodologies, and insights.
 
 ## Technologies Used
