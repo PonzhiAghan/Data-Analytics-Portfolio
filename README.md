@@ -7,18 +7,18 @@ Welcome to my data analysis portfolio! This repository showcases a collection of
 
 ## Projects
 
-### Project 1: [An Exploration of Loan Performance in the Prosper Dataset](https://github.com/PonzhiAghan/Data_analytics_with_python/blob/ec2cbbcb41ae7f5112dd3fead6cc3c488563e1c3/Python_Project_Notebook.ipynb)
+### [Project 1: An Exploration of Loan Performance in the Prosper Dataset](https://github.com/PonzhiAghan/Data_analytics_with_python/blob/ec2cbbcb41ae7f5112dd3fead6cc3c488563e1c3/Python_Project_Notebook.ipynb)
 
 - Completed cleaning and analyzing of the dataset to uncover the performance of the loan.
 - Visualized the dataset to uncover the trends of delinquencies.
 
-### Project 2: [The SQL Murder Mystery Project](https://github.com/PonzhiAghan/SQL-Project/tree/main)
+### [Project 2: The SQL Murder Mystery Project](https://github.com/PonzhiAghan/SQL-Project/tree/main)
 
 - The SQL Murder Mystery project involved using SQL queries to solve a fictional murder case that took place in SQL city. 
 - By analyzing the database containing evidence, witness testimonies, and suspect information, queries were formulated to uncover clues, identify suspects, and ultimately determine the perpetrator of the crime.
 - Through deductive reasoning and careful analysis of the data, the mystery was solved.
 
-### Project 3: [Accenture North America Data Analytics and Visualization Job Simulation on Forage - February 2024](https://github.com/PonzhiAghan/Forage-Job-Simulation-Projects/tree/main/Accenture_Project)
+### [Project 3: Accenture North America Data Analytics and Visualization Job Simulation on Forage - February 2024](https://github.com/PonzhiAghan/Forage-Job-Simulation-Projects/tree/main/Accenture_Project)
 
 - Completed a simulation focused on advising a hypothetical social media client as a Data Analyst at Accenture.
 - Cleaned, modeled, and analyzed 7 datasets to uncover insights into content trends to inform strategic decisions.
