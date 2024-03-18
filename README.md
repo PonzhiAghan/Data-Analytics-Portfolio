@@ -18,14 +18,14 @@ Welcome to my data analysis portfolio! This repository showcases a collection of
 - By analyzing the database containing evidence, witness testimonies, and suspect information, queries were formulated to uncover clues, identify suspects, and ultimately determine the perpetrator of the crime.
 - Through deductive reasoning and careful analysis of the data, the mystery was solved.
 
-### Project 3: Accenture North America Data Analytics and Visualization Job Simulation on Forage - February 2024
+### Project 3: [Accenture North America Data Analytics and Visualization Job Simulation on Forage - February 2024](https://github.com/PonzhiAghan/Forage-Job-Simulation-Projects/tree/main/Accenture_Project)
 
 - Completed a simulation focused on advising a hypothetical social media client as a Data Analyst at Accenture.
 - Cleaned, modeled, and analyzed 7 datasets to uncover insights into content trends to inform strategic decisions.
 - Prepared a PowerPoint deck and video presentation to communicate key insights for the client and internal stakeholders.
 
 
-### Project 4: PwC Switzerland Power BI Job Simulation on Forage - March 2024
+### [Project 4: PwC Switzerland Power BI Job Simulation on Forage - March 2024](https://github.com/PonzhiAghan/Forage-Job-Simulation-Projects/tree/main/PowerBI%20projects%20(PwC%20Switzerland))
 
 - Completed a job simulation where I strengthened my PowerBI skills to better understand clients and their data visualization needs.
 - Demonstrated expertise in data visualization through the creation of Power BI dashboards that effectively conveyed KPIs, showcasing the ability to respond to client requests with well-designed solutions.
